@@ -148,8 +148,17 @@ padding-top:0px;
 	text-decoration: none;
 }
 .button1 {
-	BORDER-RIGHT: medium none; PADDING-RIGHT: 5px; BORDER-TOP: medium none; PADDING-LEFT: 5px; BACKGROUND:url(images/button.jpg); height:30px; width:101px; no-repeat left top; PADDING-BOTTOM: 1px; FONT: bold 12px arial, helvetica, sans-serif; color:#FFFFFF; VERTICAL-ALIGN: middle; OVERFLOW: visible; BORDER-LEFT: medium none; PADDING-TOP: 1px; BORDER-BOTTOM: medium none;
+    border: none;
+    padding: 1px 5px 1px 5px;
+    background: url(images/button.jpg) no-repeat left top;
+    height: 30px;
+    width: 101px;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    vertical-align: middle;
+    overflow: visible;
 }
+
 .txtbox3 {
 	background-color:#FFFFFF;
 	border: 1px solid #666666;
